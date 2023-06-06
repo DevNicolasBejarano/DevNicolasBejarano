@@ -12,8 +12,8 @@
 - 1 año de experiencia como desarrollador de software
 
 <br>
-`
-## Proyectos *bombitas*
+
+`## Proyectos *bombitas*
 <table>
 <tr>
 <td width="50%">
