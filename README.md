@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/nicolas-bejarano">NicoDev</a> 👋</h1>
 </div>
-<img src="">
+<img src="/GITHUB.png">
 
 ## Sobre mi
 
