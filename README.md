@@ -9,6 +9,7 @@
 - 📲💻 Web developer
 - 🧑‍ Curso The Complete 2023 Web Development Bootcamp
 - 🧑‍ Estudiante últimos semestres Ingeniería de sistemas
+- 1 año de experiencia como desarrollador de software
 
 <br>
 
