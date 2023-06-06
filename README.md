@@ -12,7 +12,7 @@
 - 1 año de experiencia como desarrollador de software
 
 <br>
-
+``
 ## Proyectos *bombitas*
 <table>
 <tr>
@@ -52,12 +52,11 @@
 </table>                                                                                 
 </div>
 <br>
-
+``
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/DevNicolasBejarano">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
