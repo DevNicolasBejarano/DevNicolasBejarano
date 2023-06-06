@@ -7,7 +7,7 @@
 
 - 📚 Autodidacta 📚
 - 📲💻 Web developer
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🧑‍ Curso The Complete 2023 Web Development Bootcamp
 <br>
 
 ## Proyectos *bombitas*
