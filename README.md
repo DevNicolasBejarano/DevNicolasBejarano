@@ -12,7 +12,7 @@
 - 1 año de experiencia como desarrollador de software
 
 <br>
-``
+`
 ## Proyectos *bombitas*
 <table>
 <tr>
@@ -52,7 +52,7 @@
 </table>                                                                                 
 </div>
 <br>
-``
+`
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
