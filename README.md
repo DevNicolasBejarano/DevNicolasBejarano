@@ -27,5 +27,8 @@ Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar 
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Git" width="40" height="40"/>
+     
       </div>
 </div>
