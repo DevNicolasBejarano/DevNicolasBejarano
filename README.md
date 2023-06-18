@@ -14,7 +14,7 @@ Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar 
 - 🧑‍ Estudiante últimos semestres Ingeniería de sistemas
 - 1 año de experiencia como desarrollador de software
 - 🧑‍ Curso Python avanzado en udemy
--
+
 
 <br>
 
