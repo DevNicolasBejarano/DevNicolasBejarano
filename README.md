@@ -10,9 +10,11 @@ Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar 
 
 - 📚 Autodidacta 📚
 - 📲💻 Web developer
-- 🧑‍ Curso The Complete 2023 Web Development Bootcamp
+- 🧑‍ Curso The Complete 2023 Web Development Bootcamp en udemy
 - 🧑‍ Estudiante últimos semestres Ingeniería de sistemas
 - 1 año de experiencia como desarrollador de software
+- 🧑‍ Curso Python avanzado en udemy
+-
 
 <br>
 
