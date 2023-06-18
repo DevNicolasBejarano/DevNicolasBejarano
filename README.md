@@ -30,7 +30,5 @@ Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar 
         <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlserver" **alt="Git" width="40" height="40"/>
-     
-     
       </div>
 </div>
