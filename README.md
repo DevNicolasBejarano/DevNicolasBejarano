@@ -1,4 +1,4 @@
-<div align="left">
+<div>
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/nicolas-bejarano">NicoDev</a> 👋</h1>
  <p>Soy un apasionado programador junior en busca de oportunidades para crecer y aprender en el mundo de la tecnología. Me especializo en lenguajes de programación como Python, javascript, PHP. Estoy orientado al backend. Siempre estoy ansioso por adquirir nuevos conocimientos y desarrollar soluciones creativas para desafíos técnicos.
 Durante mi tiempo como programador junior, he trabajado en diversos proyectos, tanto de forma independiente como en equipos colaborativos. Mi enfoque principal ha sido el desarrollo de robots para automatización en industrias, en donde manejé lenguajes de programación como arduino, python, Linux, entre otros, en donde he podido demostrar mis habilidades en la lógica de programación.
