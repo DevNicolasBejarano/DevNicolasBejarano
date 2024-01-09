@@ -11,8 +11,8 @@ Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar 
 - 📚 Autodidacta 📚
 - 📲💻 Web developer
 - 🧑‍ Curso The Complete 2023 Web Development Bootcamp en udemy
-- 🧑‍ Estudiante últimos semestres Ingeniería de sistemas
-- 1 año de experiencia como desarrollador de software
+- 🧑‍ Estudiante último semestre Ingeniería de sistemas
+- 1.5 años de experiencia como desarrollador de software
 - 🧑‍ Curso Python avanzado en udemy
 
 
@@ -32,5 +32,6 @@ Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar 
         <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlserver" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="java" **alt="Git" width="40" height="40"/>
       </div>
 </div>
