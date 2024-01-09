@@ -28,7 +28,5 @@ Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar 
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring boot" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="DB" **alt="Git" width="40" height="40"/>
-        
      
-      </div>
 </div>
